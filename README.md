@@ -1,4 +1,6 @@
-# Multiple Git Clone
+# Bulc
+
+Bulc is an experiment tool for cloning multiple GitHub repositories from single organization. Aside from cloning, Bulc can also perform pull and archive operation.
 
 ## 1. Adjust file:
 > 1. organization.txt
